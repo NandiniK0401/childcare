@@ -1,0 +1,20 @@
+{
+  "name": "assignment-2-w0501872",
+  "version": "1.0.0",
+  "description": "[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13148719)  <img width=\"150px\" src=\"https://www.nscc.ca/img/aboutnscc/visual-identity-guidelines/artwork/nscc-jpeg.jpg\" >",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass styles.scss styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
