@@ -74,4 +74,4 @@ canvas.addEventListener('click', ()=>{
 
 
 play.addEventListener('click', game);
-// game ();
+game ();
